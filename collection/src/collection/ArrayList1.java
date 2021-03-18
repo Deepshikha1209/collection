@@ -13,6 +13,7 @@ public class ArrayList1 {
 		
 		
 		System.out.println(al.add("java"));
+		System.out.println(al.add("Angular"));
 		System.out.println(al.add("hello"));
 		System.out.println(al.add("ok"));
 		System.out.println(al.contains("java"));
